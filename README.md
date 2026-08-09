@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Caio01-10&label=Profile views&color=0e75b6&style=flat" alt="Caio01-10" /> </p>
 
-- 🔭 I'm currently working on **Projetos práticos para consolidar fundamentos de Front-end e Back-end.**
+- 🔭 I'm currently working on **Practical projects to consolidate front-end and back-end fundamentals.**
 
-- 🌱 I'm currently learning **Estrutura de dados, Git/GitHub, desenvolvimento web completom, linux, docker, etc.**
+- 🌱 I'm currently learning **Data structures, Git/GitHub, full-stack web development, Linux, Docker, etc.**
 
-- 👯 I'm looking to collaborate on **Projetos Open Source, iniciativas de comunidade dev e aplicações Front-end/Back-end focadas em impacto social.**
+- 👯 I'm looking to collaborate on **Open source projects, developer community initiatives, and front-end/back-end applications focused on social impact.**
 
-- 🤝 I'm looking for help with **Feedbacks nos meus projetos, dicas de arquitetura Front-end/Back-end e preparação para o mercado de trabalho.**
+- 🤝 I'm looking for help with **Feedback on my projects, front-end/back-end architecture tips, and job market preparation.**
 
-- 💬 Ask me about **Lógica de programação, JavaScript e meus aprendizados na área dev.**
+- 💬 Ask me about **Programming logic, JavaScript, and what I've learned in the dev field.**
 
 - 📫 How to reach me **caiomacedohms@gmail.com**
 
-- ⚡ Fun fact **Consigo passar 2 horas procurando um erro que no final era apenas um ponto e vírgula ou uma vírgula faltando.**
+- ⚡ Fun fact **I can spend two hours looking for an error that turns out to be just a missing semicolon or comma.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
