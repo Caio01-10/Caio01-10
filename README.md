@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Caio01-10&label=Profile views&color=0e75b6&style=flat" alt="Caio01-10" /> </p>
 
-- 🔭 I'm currently working on **Practical projects to consolidate front-end and back-end fundamentals.**
+- 🔭 I'm currently working on **practical projects to consolidate front-end and back-end fundamentals.**
 
-- 🌱 I'm currently learning **Data structures, Git/GitHub, full-stack web development, Linux, Docker, etc.**
+- 🌱 I'm currently learning **data structures, Git/GitHub, full-stack web development, Linux, Docker, etc.**
 
-- 👯 I'm looking to collaborate on **Open source projects, developer community initiatives, and front-end/back-end applications focused on social impact.**
+- 👯 I'm looking to collaborate on **open source projects, developer community initiatives, and front-end/back-end applications focused on social impact.**
 
-- 🤝 I'm looking for help with **Feedback on my projects, front-end/back-end architecture tips, and job market preparation.**
+- 🤝 I'm looking for help with **feedback on my projects, front-end/back-end architecture tips, and job market preparation.**
 
-- 💬 Ask me about **Programming logic, JavaScript, and what I've learned in the dev field.**
+- 💬 Ask me about **programming logic, JavaScript, and what I've learned in the dev field.**
 
 - 📫 How to reach me **caiomacedohms@gmail.com**
 
