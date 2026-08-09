@@ -2,8 +2,6 @@
 
 ### A budding Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Caio01-10&label=Profile views&color=0e75b6&style=flat" alt="Caio01-10" /> </p>
-
 - 🔭 I'm currently working on **practical projects to consolidate front-end and back-end fundamentals.**
 
 - 🌱 I'm currently learning **data structures, Git/GitHub, full-stack web development, Linux, Docker, etc.**
