@@ -1,6 +1,8 @@
 # Hi 👋, I'm Caio Henrique Macedo Silva
 
-### A budding Java developer
+> [!NOTE]
+> 🎓 **Education**
+**Systems Development** student at **COLTEC - UFMG**
 
 - 🔭 I'm currently working on **practical projects to consolidate front-end and back-end fundamentals.**
 
